@@ -1,0 +1,11 @@
+#startButton{
+    background-color: chartreuse;
+}
+
+#stopButton{
+    background-color: chocolate;
+}
+
+#resetButton{
+    background-color:cyan;
+}
